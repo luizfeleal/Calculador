@@ -1,0 +1,21 @@
+{
+  "name": "aplicativo",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-packager ."
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54",
+    "electron": "^12.0.6",
+    "live-reload": "^1.1.0"
+  },
+  "dependencies": {
+    "electron-packager": "^15.2.0"
+  },
+  "description": ""
+}
