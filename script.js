@@ -4,7 +4,7 @@ document.getElementById("seletorDeFicheiros").addEventListener("change", functio
 
     setInterval(function () {
       alert(ficheiros.length)
-    }, 5000);
+    }, 300000);
   }
     
    
